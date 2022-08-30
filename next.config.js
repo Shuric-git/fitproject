@@ -12,7 +12,7 @@ module.exports = {
   env: {
     pathPrefix,
   },
-  assetPrefix: '/fitproject',
+  assetPrefix: '/fitproject/',
   experimental: {
     // Enables the styled-components SWC transform
     styledComponents: true,
